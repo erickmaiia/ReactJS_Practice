@@ -1,9 +1,10 @@
 import "./App.css";
+import RenderComponents from "./components/RenderComponents/RenderComponents";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello word!!!!</h1>
+      <RenderComponents />
     </div>
   );
 }

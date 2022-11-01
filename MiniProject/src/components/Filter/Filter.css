@@ -1,0 +1,12 @@
+.filter {
+  width: 20em;
+  height: 20em;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 1em;
+}
+input {
+  width: 200px;
+  padding-left: 5px;
+}

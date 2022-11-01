@@ -1,0 +1,18 @@
+.cart {
+  width: 20em;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 1em;
+}
+.valueItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+#remove {
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+}

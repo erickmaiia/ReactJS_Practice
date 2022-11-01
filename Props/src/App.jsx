@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>Props</h1>
       <SayMyName name="Erick" />
-      <SayMyName name="João" />
+      <SayMyName name="João Carlos" />
       <SayMyName name={namee} />
       <Person
         photo="https://via.placeholder.com/150"

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Sputnik 1",
+    "value": 106.9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/800px-Sputnik_asm.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Sputnik 2",
+    "value": 502.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/319px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vanguard 1B",
+    "value": 207.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vanguard1.jpg/480px-Vanguard1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vanguard 2A",
+    "value": 803.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vanguard2.jpg/480px-Vanguard2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sputnik 3",
+    "value":702.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA-3.jpg/480px-%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA-3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Explorer 5",
+    "value": 908.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Explorer5.jpg/480px-Explorer5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Explorer 33",
+    "value": 603.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IMP-D.jpg/480px-IMP-D.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Explorer 7",
+    "value": 206.25,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Installing_Explorer_VII.jpg/385px-Installing_Explorer_VII.jpg"
+  }
+]
